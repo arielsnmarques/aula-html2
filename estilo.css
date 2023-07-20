@@ -1,0 +1,9 @@
+header {display: flex; align-items: center; justify-content: space-between; padding: 0 50px; }
+nav a {padding: 0 20px; text-decoration: none; color: black; }
+
+#primeira h2{font-size: 90px; word-break: normal;}
+#primeira img{width: 300px;}
+.linha{display: flex; flex-direction: row; flex-wrap: wrap;}
+.coluna{padding-left: 15px; padding-right: 15px;}
+.tamanho-1{flex: 1;}
+.tamanho-2{flex: 2;}
