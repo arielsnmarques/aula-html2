@@ -1,0 +1,16 @@
+#principal {
+    padding: 100px;
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-preto-com-textura-de-fibra-de-carbono_1017-33436.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#principal h1 {
+    color: #ffffff;
+    font-size: 75px;
+}
+
+#principal h2 {
+    color: grey;
+    font-size: 40px;
+}
