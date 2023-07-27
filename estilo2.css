@@ -16,10 +16,21 @@
 }
 
 #cursos {
-    padding: 0px 60px;
+    padding: 0px 60px 30px;
     }
 
 #perguntas {
-    padding: 0px 60px 40px;
+    padding: 10px 60px 40px;
+    background-color: #eee;
 
+}
+
+#formulario {
+    background-color: #000;
+    padding: 100px;
+    color: #ffffff;
+}
+
+#formulario img {
+    width: 300px;
 }
